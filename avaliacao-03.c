@@ -32,11 +32,11 @@ int main()
     return 0;
 }
 
-// b) Dada uma String qualquer inverter essa String.
+/* b) Dada uma String qualquer inverter essa String.
 
 #include <stdio.h>
 
-int men() {
+int main() {
 
 int size;
 
@@ -48,3 +48,4 @@ printf( " O Tamanho da String =%d\n" ,size);
 
 return 0;
 }
+*/
